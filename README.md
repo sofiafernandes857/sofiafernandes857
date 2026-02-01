@@ -1,5 +1,36 @@
-# 💫 About Me:
-👋 Oi! Eu sou a Sofia<br>🎓 Estudante de Engenharia de Software<br>📊 Interesse em Dados, Analytics e Automação<br><br>💻 Tecnologias<br><br>Python 🐍<br><br>SQL 📄<br><br>Git & GitHub 🌱<br><br>APIs 🔗<br><br>📈 O que eu gosto de fazer<br><br>Analisar e organizar dados<br><br>Criar dashboards e relatórios<br><br>Automatizar processos<br><br>Resolver problemas com lógica<br><br>🧠 Sobre mim<br><br>Curiosa e em aprendizado contínuo 📚<br><br>Colecionadora de cubos mágicos 🧩<br><br>Leitora de livros de suspense e mistério 🔍<br><br>🚀 Objetivo<br><br>Transformar dados em insights que gerem impacto real no negócio
+# 💫 About Me
+
+👋 Oi! Eu sou a Sofia  
+🎓 Estudante de Engenharia de Software  
+📊 Interesse em Dados, Analytics e Automação  
+
+---
+
+## 💻 Tecnologias
+- Python 🐍  
+- SQL 📄  
+- Git & GitHub 🌱  
+- APIs 🔗  
+
+---
+
+## 📈 O que eu gosto de fazer
+- Analisar e organizar dados  
+- Criar dashboards e relatórios  
+- Automatizar processos  
+- Resolver problemas com lógica  
+
+---
+
+## 🧠 Sobre mim
+- Curiosa e em aprendizado contínuo 📚  
+- Colecionadora de cubos mágicos 🧩  
+- Leitora de livros de suspense e mistério 🔍  
+
+---
+
+## 🚀 Objetivo
+Transformar dados em insights que gerem impacto real no negócio
 
 
 ## 🌐 Socials:
